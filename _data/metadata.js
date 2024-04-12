@@ -2,12 +2,12 @@
 
 module.exports = {
 	title: "silly blog :3",
-	url: "https://freerobux.com/",
+	url: "https://example.com/",
 	language: "en",
 	description: "welcome to my silly blog >w< ",
 	author: {
 		name: "Maks",
 		email: "sillyblogbusiness@hotmail.com",
-		url: "https://freerobux.com/about-me/"
+		url: "https://example.com/about-me/"
 	}
 }
