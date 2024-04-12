@@ -1,7 +1,7 @@
 ---
 title: Jesus was born today. #slay
 description: This is a post on My Blog
-date: 0-12-25
+date: 0000-12-25
 tags:
   - another tag
 ---
