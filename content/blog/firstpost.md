@@ -1,7 +1,7 @@
 ---
-title: This is my first post.
+title: Jesus was born today. #slay
 description: This is a post on My Blog
-date: 2018-05-01
+date: 0-12-25
 tags:
   - another tag
 ---
