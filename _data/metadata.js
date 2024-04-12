@@ -1,13 +1,13 @@
 // update the information in this file with information about you/your site - this is for the search engine to read and display, but isn't shown on your site itself
 
 module.exports = {
-	title: "My Example Blog",
-	url: "https://example.com/",
+	title: "silly blog :3",
+	url: "https://freerobux.com/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "welcome to my silly blog >w< ",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "Maks",
+		email: "sillyblogbusiness@hotmail.com",
+		url: "https://freerobux.com/about-me/"
 	}
 }
