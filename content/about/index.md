@@ -7,4 +7,4 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+silly blog :3
